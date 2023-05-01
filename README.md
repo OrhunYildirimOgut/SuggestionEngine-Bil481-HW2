@@ -1,2 +1,1 @@
-# Bil481HW2
-Bil481HW2
+Hocam, hem final tarihlerim çok sıkışıktı hem de finallerden önce 3 yıllık kız arkadaşımdan ayrıldım.  İkinci 3 gün geç teslim ediyorum. Ödev dosyası bilgisayarımda sıkıntı çıkarttı 4 farklı bashte denedim bilgisayar değiştirdim en son tekrar eski bilgisayarda wsl'e ubuntu kurup çözebildim. Umarım ödevlerimi değerlendirirsiniz.
